@@ -18,7 +18,8 @@
 |	Eflatun.GeoUnity		    |	https://github.com/starikcetin/Eflatun.GeoUnity			      |
 |	Eflatun.Expansions		  |	https://github.com/starikcetin/Eflatun.Expansions		      |
 |	Eflatun.WebView			    |	https://github.com/starikcetin/Eflatun.WebView			      |
-|       Eflatun.AndroidManifestHook         |   https://github.com/starikcetin/Eflatun.AndroidManifestHook            |
+| Eflatun.AndroidManifestHook | https://github.com/starikcetin/Eflatun.AndroidManifestHook |
+| Eflatun.EventBus        | https://github.com/starikcetin/Eflatun.EventBus           |
 
 
 # Experiments
