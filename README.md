@@ -2,6 +2,8 @@
 
 |	Name				            | Repo												                              |
 |-------------------------|-----------------------------------------------------------|
+| Eflatun.SceneReference  | https://github.com/starikcetin/Eflatun.SceneReference     |
+| Eflatun.EventBus        | https://github.com/starikcetin/Eflatun.EventBus           |
 |	Eflatun.Tracking2D		  |	https://github.com/starikcetin/Eflatun.Tracking2D		      |
 |	Eflatun.Calculation		  |	https://github.com/starikcetin/Eflatun.Calculation		    |
 |	Eflatun.GridBuilding	  |	https://github.com/starikcetin/Eflatun.GridBuilding		    |
@@ -19,7 +21,6 @@
 |	Eflatun.Expansions		  |	https://github.com/starikcetin/Eflatun.Expansions		      |
 |	Eflatun.WebView			    |	https://github.com/starikcetin/Eflatun.WebView			      |
 | Eflatun.AndroidManifestHook | https://github.com/starikcetin/Eflatun.AndroidManifestHook |
-| Eflatun.EventBus        | https://github.com/starikcetin/Eflatun.EventBus           |
 
 
 # Experiments
